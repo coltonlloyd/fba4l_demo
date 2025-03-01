@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Launching Jupyter nbclassic..."
+exec jupyter nbclassic
