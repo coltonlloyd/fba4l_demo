@@ -5,3 +5,4 @@ pandas
 bokeh
 cobra
 escher
+jupyter_contrib_nbextensions
