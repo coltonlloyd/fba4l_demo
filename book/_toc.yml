@@ -3,6 +3,8 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: nb_examples/Intro to COBRApy_complete.ipynb
-- file: nb_examples/pcca_example.ipynb
+parts:
+- caption: Demo
+  chapters:
+  - file: nb_examples/Intro to COBRApy_complete
+  - file: nb_examples/pcca_example
