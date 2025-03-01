@@ -17,3 +17,4 @@ sphinx_inline_tabs
 sphinx-proof
 sphinxext-rediraffe~=0.2.3
 sympy
+jupyterlab==2.2.6
