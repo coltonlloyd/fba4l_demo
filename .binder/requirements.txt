@@ -6,3 +6,14 @@ bokeh
 cobra
 escher
 jupyter_contrib_nbextensions
+folium
+ipywidgets
+jupytext
+matplotlib
+nbclient
+sphinx-click
+sphinx-examples
+sphinx_inline_tabs
+sphinx-proof
+sphinxext-rediraffe~=0.2.3
+sympy
