@@ -6,5 +6,8 @@ root: intro
 parts:
 - caption: Demo
   chapters:
-  - file: nb_examples/Intro to COBRApy_complete
+  - file: nb_examples/simulating_core_metabolism
   - file: nb_examples/pcca_example
+  - file: nb_examples/solving_homework
+  - file: nb_examples/Intro to COBRApy_complete
+ 
